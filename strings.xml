@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">If App First You Don\'t Succeed</string>
     <string name="button_name">Submit</string>
+    <string name="show_text">Android for the Win!</string>
 </resources>
